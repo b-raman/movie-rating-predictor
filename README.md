@@ -3,7 +3,7 @@ Please Read the Capstone_Report for a detailed explanation of the project
 ## Included Files
 
     capstone_project.ipynb
-    Capstone_Report.pdf
+    Project_Report.pdf
     Capstone_Proposal.pdf
     README.md
 
