@@ -3,8 +3,8 @@ Please Read the Capstone_Report for a detailed explanation of the project
 ## Included Files
 
     capstone_project.ipynb
-    benchmark.ipynb
     Capstone_Report.pdf
+    Capstone_Proposal.pdf
     README.md
 
 ## Modules used:
